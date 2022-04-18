@@ -1,0 +1,61 @@
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.csprojAssemblyReference.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.GirisEkran.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.KayitEkran.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.Properties.Resources.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\bin\Debug\BorsaApplication.exe.config
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\bin\Debug\BorsaApplication.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\bin\Debug\BorsaApplication.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\bin\Debug\MetroFramework.dll
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.csproj.CopyComplete
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.exe
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.pdb
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.AnaEkran.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.ParaEkle.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.CoinEkle.resources
+C:\Users\Eray DUMAN\Desktop\C#\C# Borsa App\BorsaApplication\BorsaApplication\obj\Debug\BorsaApplication.AdminEkran.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\bin\Debug\BorsaApplication.exe.config
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\bin\Debug\BorsaApplication.exe
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\bin\Debug\BorsaApplication.pdb
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\bin\Debug\MetroFramework.Design.dll
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\bin\Debug\MetroFramework.dll
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csprojAssemblyReference.cache
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.AdminEkran.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.AnaEkran.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.CoinEkle.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.GirisEkran.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.KayitEkran.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.ParaEkle.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.Properties.Resources.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csproj.GenerateResource.cache
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csproj.CoreCompileInputs.cache
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csproj.CopyComplete
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.exe
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.pdb
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\bin\Debug\BorsaApplication.exe.config
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\bin\Debug\BorsaApplication.exe
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\bin\Debug\BorsaApplication.pdb
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\bin\Debug\MetroFramework.dll
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csprojAssemblyReference.cache
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.AdminEkran.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.AnaEkran.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.CoinEkle.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.Cuzdan.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.GirisEkran.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.KayitEkran.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.ParaEkle.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.Properties.Resources.resources
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csproj.CopyComplete
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.exe
+C:\Users\Eray DUMAN\Desktop\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.pdb
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.Cuzdan.resources
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.csproj.ResolveComReference.cache
+C:\Users\becau\Documents\GitHub\BorsaApp\BorsaApplication\obj\Debug\BorsaApplication.Rapor.resources
